@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-rating-component-html-css-vanillajs-tgRzLzbSNk](https://www.frontendmentor.io/solutions/responsive-rating-component-html-css-vanillajs-tgRzLzbSNk)
+- Live Site URL: [https://kennylun123.github.io/fm-interactive-rating-component/](https://kennylun123.github.io/fm-interactive-rating-component/)
 
 ## My process
 
